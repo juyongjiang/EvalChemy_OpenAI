@@ -27,9 +27,9 @@ python -m eval.eval \
 
 ## Evaluation Results
 
-| Institution | Model | HE | HE+ | MBPP | MBPP+ | BBC | LCB | CF |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **OpenAI** | GPT-5 |  |  |  |  |  |  |  |
-| **OpenAI** | GPT4.1 |  |  |  |  |  |  |  |
-| **Anthropic** | Claude-Sonnet-4.5 |  |  |  |  |  |  |  |
-| **Google** | Gemini-2.5-Pro |  |  |  |  |  |  |  |
+| Institution | Model | HE | HE+ | MBPP | MBPP+ | BBC | LCB | CF | CRUXEval |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **OpenAI** | GPT-5 |  |  |  |  |  |  |  | |
+| **OpenAI** | GPT4.1 |  |  |  |  |  |  |  | |
+| **Anthropic** | Claude-Sonnet-4.5 |  |  |  |  |  |  |  | |
+| **Google** | Gemini-2.5-Pro |  |  |  |  |  |  |  | |
