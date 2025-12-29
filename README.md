@@ -11,7 +11,7 @@ pip install -e .
 ## Support OpenAI-like Models Evaluation
 
 1. Move `openai_api.py` file to `eval` folder;
-2. Write `from eval.openai_api import OpenAIAPIModel` into the beginning of `eval/eval.py` file to register openai_api model;
+2. Write `from eval.openai_api import OpenAIAPIModel` at the beginning of `eval/eval.py` file to register openai_api model;
 3. Run the following commands to start evaluation:
 
 ```bash
