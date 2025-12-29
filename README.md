@@ -24,3 +24,12 @@ python -m eval.eval \
     --apply_chat_template True \
     --output_path logs
 ```
+
+## Evaluation Results
+
+| Institution | Model | HE | HE+ | MBPP | MBPP+ | BBC | LCB | CF |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **OpenAI** | GPT-5 |  |  |  |  |  |  |  |
+| **OpenAI** | GPT4.1 |  |  |  |  |  |  |  |
+| **Anthropic** | Claude-Sonnet-4.5 |  |  |  |  |  |  |  |
+| **Google** | Gemini-2.5-Pro |  |  |  |  |  |  |  |
